@@ -15,7 +15,7 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/UNOMP/node-merged-pool",
+    "homepage": "https://github.com/GRinvestPOOL/node-merged-pool",
     "bugs": {
         "url": "https://github.com/UNOMP/node-merged-pool/issues"
     },
@@ -31,10 +31,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "https://github.com/GRinvestPOOL/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "unomp-multi-hashing": "https://github.com/GRinvestPOOL/unode-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
