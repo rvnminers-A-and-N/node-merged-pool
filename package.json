@@ -1,5 +1,5 @@
 {
-    "name": "@GRinvestPOOL/merged-pooler",
+    "name": "merged-pooler",
     "version": "1.0.0",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
@@ -34,7 +34,7 @@
         "url": "https://github.com/GRinvestPOOL/node-merged-pool.git"
     },
     "dependencies": {
-        "@GRinvestPOOL/unomp-multi-hashing": "*",
+        "unomp-multi-hashing": "https://github.com/GRinvestPOOL/unode-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
