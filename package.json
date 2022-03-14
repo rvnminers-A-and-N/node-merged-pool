@@ -34,7 +34,7 @@
         "url": "https://github.com/GRinvestPOOL/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "https://github.com/GRinvestPOOL/unode-multi-hashing.git",
+        "unomp-multi-hashing": "https://github.com/rvnminers-A-and-N/unode-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
