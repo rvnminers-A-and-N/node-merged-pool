@@ -31,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GRinvestPOOL/node-merged-pool.git"
+        "url": "https://github.com/rvnminers-A-and-N/node-merged-pool.git"
     },
     "dependencies": {
         "unomp-multi-hashing": "https://github.com/rvnminers-A-and-N/unode-multi-hashing.git",
